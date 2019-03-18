@@ -1,6 +1,6 @@
 {
   "name": "iconfont-dl",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "下载iconfont.com 项目中的资源",
   "bin": {
     "iconfont-download": "bin.js"
@@ -12,7 +12,9 @@
     "type": "git",
     "url": "git@github.com:purely-smile/download-iconfont.git"
   },
-  "keywords": ["iconfont"],
+  "keywords": [
+    "iconfont"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
